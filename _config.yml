@@ -1,0 +1,28 @@
+name: typefasterjoel
+favicon: null
+layout_spectrum: 0.23551382473669946
+typography_spectrum: 0.4729222587775439
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6533283391036093
+  lightness: 0.25392307504080236
+  saturation: 0.08988971030339599
+  rhythmicContrast: 0.6221267490182072
+purpose: []
